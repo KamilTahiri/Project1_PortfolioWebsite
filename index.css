@@ -18,11 +18,8 @@ h1{
 .container img{ 
     margin: auto;
     margin-bottom: 20px;
+    margin-right: 35%;
   }
-.afbeelding{
-    margin-left: 20px;
-    margin-bottom: 20px;
-}
 .tabel{
     position: relative;
     margin-left: 20px;
