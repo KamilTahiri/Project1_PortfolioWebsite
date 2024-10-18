@@ -24,7 +24,7 @@ nav a {
 a:hover{
     color: blue;
 }
-ul{
+nav ul{
     list-style-type: none;
 }
 .border{
